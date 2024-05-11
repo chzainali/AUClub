@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "346078136670",
+    "project_id": "auclub-2cd39",
+    "storage_bucket": "auclub-2cd39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346078136670:android:f489f10f2ae465691e67cf",
+        "android_client_info": {
+          "package_name": "com.example.auclub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3iMH_dH0LHFTI67dBaEHrdU1ZNs-QAqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
